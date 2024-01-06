@@ -2,7 +2,7 @@
 
 This is a simple implementation of the classic Tic-Tac-Toe game using Python and Tkinter.
 
-[Watch a demo video](Demo.gif)
+![Watch a demo ](Demo.gif)
 
 
 ## How to Play
