@@ -4,7 +4,6 @@ This is a simple implementation of the classic Tic-Tac-Toe game using Python and
 
 ![Watch a demo ](hereisademo.gif)
 
-
 ## How to Play
 
 1. Run the game by executing the `main.py` script.
